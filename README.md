@@ -1,1 +1,2 @@
 Here's the personal project I conducted during the 2023-2024 Winter course Computational Content Analysis in University of Chicago.
+I analyzed the subreddit group of Uchicago to learn more about the atmosphere of this university through posts and comments. As a student who suffered from the hectic life and overwhelming workload in University of Chicago, I try to learn morea bout how my alumni think about this university. I used the textual data of Reddit posts with a filter textual dataset ranging from 70,000 to 10,000.
